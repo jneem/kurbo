@@ -8,7 +8,7 @@ Subheadings to categorize changes are `added, changed, deprecated, removed, fixe
 
 # Changelog
 
-The latest published Kurbo release is [0.4.0](#040-2025-10-23) which
+The latest published polycool release is [0.4.0](#040-2025-10-23) which
 was released on 2025-10-23. You can find its changes
 [documented below](#040-2025-10-23).
 
